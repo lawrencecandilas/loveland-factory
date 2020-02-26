@@ -1,0 +1,6 @@
+This music was composed using FL Studio 7.0 XXL v7.0.0.
+
+The following software VSTs were used:
+- PlastiCZ (version 1.0)
+- JunoX
+- SynthOne
