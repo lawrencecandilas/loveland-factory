@@ -12,6 +12,8 @@ Thanks for checking out these WADs.
 
 ## Story
 
+![Story Image](https://github.com/lawrencecandilas/loveland-factory/blob/master/Assets/Graphics/Loveland%20Factory%20-%20LFSTORY.png)
+
 ## About these WADs
 
 After my last WAD, I wanted to try and make something that would work with vanilla DOOM's limitations.  This is the result.  It's nowhere near as huge as my last WAD (Serenity Castle), but is still has a level of complexity.
