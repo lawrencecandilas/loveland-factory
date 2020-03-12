@@ -4,9 +4,9 @@
 
 This release has two WADs. 
 
-LOVELAND.WAD - Vanilla-DOOM compatible.  Runs in V1.9 of the actual DOOM2.EXE.  Level appears at MAP01.
+LOVELAND.WAD - Vanilla-DOOM compatible.  Runs in V1.9 of the actual DOOM2.EXE.  Level appears at MAP01.  This WAD is tiny (~800KB) but probably rather big for 1995.
 
-Loveland Factory.wad - GZDoom compatible; Brutal DOOM mod compatible but not needed.  This has a MAPINFO with a 1-level episode and ending like Serenity Castle, just start the game, or enter "MAP START" to restart.
+Loveland Factory.wad - GZDoom compatible; Brutal DOOM mod compatible but not needed.  This has a MAPINFO with a 1-level episode and ending like Serenity Castle, just start the game, or enter "MAP START" to restart.  Because of the high-quality Ogg music file this WAD is big (~26MB).
 
 Thanks for checking out these WADs.
 
@@ -14,15 +14,17 @@ Thanks for checking out these WADs.
 
 ## About these WADs
 
-Before this, I created Serenity Castle.  Serenity Castle is a huge-ass WAD that absolutely smashes every limit in vanilla Doom.  It also crashes Visplane Explorer in Doom Builder 2.
+After my last WAD, I wanted to try and make something that would work with vanilla DOOM's limitations.  This is the result.  It's nowhere near as huge as my last WAD (Serenity Castle), but is still has a level of complexity.
 
-This level is nowhere near as big as Serenity Castle.  It's still complex, though.
+"LOVELAND.WAD" loads and runs fine in DOOM2.EXE version V1.9 (MAP01).  It has a custom MIDI music track.  I didn't test any other DOS versions or DOS sourceports.  Visplane count doesn't get above 100 anywhere in the map (at least according to Visplane Explorer).  What was worse than watching the visplanes was finding and resolving drawseg overflows.  I think I took care of all those.
 
-I wanted to create a WAD that worked within Vanilla DOOM's limitations, in addition to seeing how customizing screens and music for that worked.
+I'll be honest, I didn't playtest under vanilla DOOM as much as GZDoom, because I'm addicted to freelook.  
 
-The visplane count doesn't get to above 100 and the map was carefully tested and retested to attempt to eliminate all drawseg overflows - these were more of a problem than trying to stay under 128 visplanes.
+"Loveland_Factory.wad" is meant for GZDoom and compatible and has a MAPINFO lump, custom title, and an Ogg music track like my last one.
 
-There are no Spider Masterminds or Cyberdemons in this WAD.
+The map is the same on either one, though.
+
+I'm considering this WAD completed except for any feedback anyone may provide.  I hope anyone who tries it out enjoys it.
 
 ## Requirements
 
@@ -36,7 +38,7 @@ LOVELAND.WAD was tested using V1.9 of DOOM.EXE in DosBOX.  All limitations of Va
 
 - Resist the temptation to shoot barrels on sight, some may help you later.
 
-- The switch guarded by the Mancubus is essential to progressing, though you won't know why until later.
+- The switch guarded by the Mancubus is essential to progressing.
 
 - The switch behind the red-key door opens a door, but you won't see it until you circle back around.
 

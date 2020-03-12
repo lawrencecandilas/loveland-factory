@@ -1,0 +1,9 @@
+The Ogg Vorbis track that's part of the GZDoom-compatible WAD was composed using FL Studio 7.0 XXL v7.0.0.  It was saved to .WAV and converted to Ogg in Audacity.
+
+The following software VSTs were used:
+- reFX PlastiCZ (version 1.0)
+- reFX JunoX2 (version 1.51)
+- Sonicbits SynthOne (version 0.1)
+
+The MIDI track (LFBGM.MID) that's part of the vanilla-Doom-compatible WAD was composed mostly while I was working using onlinesequencer.net.  I didn't spend very much time on it.
+
