@@ -10,7 +10,11 @@ Loveland Factory.wad - GZDoom compatible; Brutal DOOM mod compatible but not nee
 
 Thanks for checking out these WADs.
 
+![Title Image](https://github.com/lawrencecandilas/loveland-factory/blob/master/Assets/Graphics/Loveland%20Factory%20-%20LFTTLPIC.png)
+
 ## Story
+
+![Story Image](https://github.com/lawrencecandilas/loveland-factory/blob/master/Assets/Graphics/Loveland%20Factory%20-%20LFSTORY.png)
 
 ## About these WADs
 
